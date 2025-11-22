@@ -1,0 +1,9 @@
+streamlit>=1.36,<2.0
+pandas>=2.1
+plotly>=5.18
+numpy>=1.26
+pytest>=7.4
+wordcloud>=1.9
+matplotlib>=3.8
+
+
